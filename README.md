@@ -1,3 +1,5 @@
+NEED TO EDIT
+
 REF, or `r()` is a nicer alternative to PHP's [`print_r`](http://php.net/manual/en/function.print-r.php) / [`var_dump`](http://php.net/manual/en/function.var-dump.php) functions.
 
 ## [DEMO](http://dev.digitalnature.eu/php-ref/) ##
