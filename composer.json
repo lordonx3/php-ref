@@ -1,5 +1,5 @@
 {
-    "name": "digitalnature/php-ref",
+    "name": "mikield/php-ref",
     "description": "A nicer print_r/var_dump alternative for PHP 5.3+",
     "keywords": ["debug","var_dump"],
     "homepage": "https://github.com/digitalnature/php-ref",   
